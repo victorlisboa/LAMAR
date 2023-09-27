@@ -16,11 +16,11 @@ Se você possui alguma sugestão para contribuir neste projeto, sinta-se à vont
 - [Gerenciador de Conversão de BMP para .data](https://github.com/gss214/Gerenciador-de-Conversao) - Este gerenciador desenvolvido pelo [@gss214](https://github.com/gss214) para facilitar a conversão de diversas imagens do formato BMP para .data/.s/.asm de forma automática e fácil (há um tutorial de como utilizá-lo nas playlists e no próprio repositório).
 - [Conversor de imagens BMP para ASM](https://github.com/RuanPetrus/BMPtoASM) - Esse conversor foi criado com o intuito de resolver o problema que os usuários do linux tinham ao tentar converter um arquivo .bmp para .data usando o GIMP. Se você é usuário de Linux, esse conversor com certeza vai ser bem útil!
 
-## Livrão
+## Livrão de OAC
 
 O "livrão de OAC" como é chamado, é um livro gratuito que está sendo produzido com diversos materiais, dicas, exercícios e explicações sobre atividades que são desenvolvidas em OAC. O livro é de iniciativa do [Thiago de Paula](link) e também é útil para alunos de ISC.
 
-* algum jeito de linkar sempre a versão mais atualizada do livro
+Uma cópia do PDF está disponível neste repositório.
 
 ## Jogos de Semestres Anteriores
 
