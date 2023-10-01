@@ -13,14 +13,19 @@ Se você possui alguma sugestão para contribuir neste projeto, sinta-se à vont
 ## Repositórios Úteis
 - [Caderno no Notion de ISC](https://www.notion.so/team/dd503834-5eef-45ca-98c1-8a3e93d00f75/join) - Esse caderno foi uma iniciativa dos alunos [@victorlisboa](https://github.com/victorlisboa) e [@anasofia0](https://github.com/anasofia0) no semestre em que eles foram calouros. A ideia era criar um grande caderno colaborativo com toda a turma (e infelizmente não vingou tão bem).
 - [FPGRARS](https://github.com/LeoRiether/FPGRARS) - Simplesmente não há palavras para descrever o quão útil é o FPGRARS para as disciplinas de ISC e OAC. O FPGRARS é "um simulador de RISC-V com display gráfico e entrada de teclado similar ao RARS, mas 200 vezes mais rápido". Ele foi desenvolvido pelo [@LeoRiether](https://github.com/LeoRiether) no semestre em que ele estava cursando OAC por conta do RARS ser muito lento e apresentar muitos bugs. Para mais informações sobre o FPGRARS, consulte sua [documentação](https://leoriether.github.io/FPGRARS/).
-- [Gerenciador de Conversão de BMP para .data](https://github.com/gss214/Gerenciador-de-Conversao) - Este gerenciador desenvolvido pelo [@gss214](https://github.com/gss214) para facilitar a conversão de diversas imagens do formato BMP para .data/.s/.asm de forma automática e fácil (há um tutorial de como utilizá-lo nas playlists e no próprio repositório).
-- [Conversor de imagens BMP para ASM](https://github.com/RuanPetrus/BMPtoASM) - Esse conversor foi criado com o intuito de resolver o problema que os usuários do linux tinham ao tentar converter um arquivo .bmp para .data usando o GIMP. Se você é usuário de Linux, esse conversor com certeza vai ser bem útil!
+- [Gerenciador de Conversão de .bmp para .data](https://github.com/gss214/Gerenciador-de-Conversao) - Este gerenciador desenvolvido pelo [@gss214](https://github.com/gss214) para facilitar a conversão de diversas imagens do formato BMP para .data/.s/.asm de forma automática e fácil (há um tutorial de como utilizá-lo nas playlists e no próprio repositório).
+- [Conversor de imagens .bmp para .data [GIMP users]](https://github.com/RuanPetrus/BMPtoASM) - Esse conversor foi criado com o intuito de resolver o problema que os usuários do linux tinham ao tentar converter um arquivo .bmp para .data usando o GIMP. Se você é usuário de Linux, esse conversor com certeza vai ser bem útil!
+- [Conversor de imagens .png para .data](https://github.com/ABMHub/png2oac) - Esse conversor automaticamente converte de .png para .data/.s/.asm e de quebra já redimensiona a imagem para largura múltipla de 4, facilitando a programação.
 
 ## Livrão de OAC
 
 O "livrão de OAC" como é chamado, é um livro gratuito que está sendo produzido com diversos materiais, dicas, exercícios e explicações sobre atividades que são desenvolvidas em OAC. O livro é de iniciativa do [Thiago de Paula](link) e também é útil para alunos de ISC.
 
 Uma cópia do PDF está disponível neste repositório.
+
+## Links Úteis
+
+- [Dicas para OAC no Geral](https://docs.google.com/document/d/1k0Qy25dyoapkW3nP2wsmMaD7o3qBDLXW8S9ArubQVWg) - Um texto detalhando algumas experiências de [@emmenezes](https://github.com/emmenezes) quando cursou OAC e que podem ser muito úteis para vocês.
 
 ## Jogos de Semestres Anteriores
 
@@ -34,6 +39,9 @@ OAC - 2021.1 - Celeste:
 
 ISC - 2020.1 - The Way of The Exploding Fist:
 - [TWEF - Davi Paturi, Marcus Kaller, Victor Lisboa](https://github.com/davipatury/ProjetoISC-2020)
+
+OAC - 2020.1 - Mortal Kombat
+- [João Kombat: João Felix, João Siqueira e Lucas Macedo](https://github.com/ABMHub/JoaoKombat)
 
 ## Contribuidores
 
