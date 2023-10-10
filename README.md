@@ -37,6 +37,10 @@ OAC - 2021.1 - Celeste:
 - [Celeste: Ana Silvestre, Davi Paturi e Victor Lisboa](https://github.com/Acucar-tempero-e-tudo-que-ha-de-bom/ProjetoOAC-2021)
 - [OACeleste: Gabriel Borges, Maria Eduarda e Luiz Carlos](https://github.com/ziul123/OACeleste)
 
+ISC - 2020.2 - Adventures of Lolo:
+- [Adventures of Lamar: César Lacerda, Felipe Borges e Gustavo Starling](https://github.com/Felipedbbsb/Adventures-of-Lamar-ISC)
+- [Adventures of Pikachu: Ana Alves, Bruno Vargas e Harisson Magalhães](https://github.com/BrunoVarg/AdventuresOfPikachu)
+
 ISC - 2020.1 - The Way of The Exploding Fist:
 - [TWEF - Davi Paturi, Marcus Kaller, Victor Lisboa](https://github.com/davipatury/ProjetoISC-2020)
 
