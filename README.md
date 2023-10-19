@@ -40,6 +40,7 @@ OAC - 2021.1 - Celeste:
 ISC - 2020.2 - Adventures of Lolo:
 - [Adventures of Lamar: César Lacerda, Felipe Borges e Gustavo Starling](https://github.com/Felipedbbsb/Adventures-of-Lamar-ISC)
 - [Adventures of Pikachu: Ana Alves, Bruno Vargas e Harisson Magalhães](https://github.com/BrunoVarg/AdventuresOfPikachu)
+- [Adventures of Lolo: Matheus Cardoso, Aquila Macedo, Eduardo Ferreira](https://github.com/Cardosaum/isc-lolo-game)
 
 ISC - 2020.1 - The Way of The Exploding Fist:
 - [TWEF - Davi Paturi, Marcus Kaller, Victor Lisboa](https://github.com/davipatury/ProjetoISC-2020)
