@@ -34,6 +34,9 @@ Aqui estão alguns projetos finais tanto de ISC quanto de OAC para ajudar e insp
 
 ##### Observação: se você quiser disponibilizar o link do repositório do seu jogo, contate um dos [contribuidores](#contribuidores) e ficaremos muito contentes de termos mais um exemplo para a nossa pratileira!
 
+ISC - 2023.1 - Gauntlet:
+- [The Assembly Gauntlet: Luca Megiorin, Eduardo de Sousa e Manuella Araujo](https://github.com/Luke0133/The-Assembly-Gauntlet)
+
 OAC - 2021.1 - Celeste:
 - [Celeste: Ana Silvestre, Davi Paturi e Victor Lisboa](https://github.com/Acucar-tempero-e-tudo-que-ha-de-bom/ProjetoOAC-2021)
 - [OACeleste: Gabriel Borges, Maria Eduarda e Luiz Carlos](https://github.com/ziul123/OACeleste)
