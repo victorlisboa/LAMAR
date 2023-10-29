@@ -8,7 +8,8 @@ Se você possui alguma sugestão para contribuir neste projeto, sinta-se à vont
 ## Videoaulas
 
 - O [canal do Thales Menezes](https://www.youtube.com/@thlmenezes3430) [@thlmenezes](https://github.com/thlmenezes) possui diferentes playlists com diferentes conteúdos abordando o Assembly RISC-V e projeto de jogos.
-- [Nesta playlist](https://youtube.com/playlist?list=PLL0Kob75DU32afhLBN5nY2KzOJ5k6lw-Q&si=DDFPmz_BaCsBMM0o) é possível encontrar as videoaulas produzidas por nós alunos/monitores (e até mesmo do professor Marcus Vinícius Lamar) para ajudar os alunos das disciplinas ISC e OAC.
+- [Playlist de videoaulas/tutoriais](https://youtube.com/playlist?list=PLL0Kob75DU32afhLBN5nY2KzOJ5k6lw-Q&si=DDFPmz_BaCsBMM0o) produzidas por monitores (e até mesmo pelo professor Marcus Vinícius Lamar) para ajudar os alunos das disciplinas ISC e OAC.
+- [Curso Me Salva de Assembly RISC-V do canal do Prof. Santiago](https://youtube.com/playlist?list=PLBw9d_OueVJRZ34oo1HB6q55rAIjuP6Ib&si=mJA0WvhwUMJSaS1d).
 
 ## Repositórios Úteis
 - [Caderno no Notion de ISC](https://www.notion.so/cadernodeisc/invite/069691f6dbef0c56e67127d24241224d2ae7217c) - Esse caderno foi uma iniciativa dos alunos [@victorlisboa](https://github.com/victorlisboa) e [@anasofia0](https://github.com/anasofia0) no semestre em que eles foram calouros. A ideia era criar um grande caderno colaborativo com toda a turma (e infelizmente não vingou tão bem). O acesso ao caderno no notion está meio conturbado, então peço que quem deseja participar envie seu e-mail [neste formulário](https://docs.google.com/forms/d/1KRWlxprWLx6fw9-D8ap_nrHaAXDEJGQArqnYrpkejvY).
