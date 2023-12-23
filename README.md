@@ -20,7 +20,8 @@ Se você possui alguma sugestão para contribuir neste projeto, sinta-se à vont
 - [Conversor de imagens .bmp para .data [GIMP users]](https://github.com/RuanPetrus/BMPtoASM) - Esse conversor foi criado com o intuito de resolver o problema que os usuários do linux tinham ao tentar converter um arquivo .bmp para .data usando o GIMP. Se você é usuário de Linux, esse conversor com certeza vai ser bem útil!
 - [Conversor de imagens .png para .data](https://github.com/ABMHub/png2oac) - Esse conversor automaticamente converte de .png para .data/.s/.asm e de quebra já redimensiona a imagem para largura múltipla de 4, facilitando a programação.
 - [Guia do Calouro](https://cardosaum.github.io/guia-do-cicalouro/) - Essa página foi criada pelo [@Cardosaum](https://github.com/Cardosaum) e é um ótimo guia não só para a disciplina de ISC, mas também de todas as outras disciplinas do 1º semestre. É um projeto que é aberto e aceita contribuições da comunidade e com certeza vale a pena conferir.
-- [Calculadora ISC](https://github.com/arthurxsz/ISC-Calculadora) - Calculadora para auxiliar nas atividades do módulo 1, criada pelo aluno [@arthurxsz](https://github.com/arthurxsz).
+- [Calculadora ISC](https://github.com/arthurxsz/ISC-Calculadora) - Calculadora para auxiliar nas atividades do módulo 1 de ISC, criada pelo aluno [@arthurxsz](https://github.com/arthurxsz).
+- [Engine 3D](https://github.com/RISCV-Games/Engine3D) - Prova de conceito de uma engine 3D em assembly RISC-V
 
 ## Livrão de OAC
 
@@ -44,9 +45,15 @@ ISC - 2023.2 - Bad Ice Cream:
 ISC - 2023.1 - Gauntlet:
 - [The Assembly Gauntlet: Luca Megiorin, Eduardo de Sousa e Manuella Araujo](https://github.com/Luke0133/The-Assembly-Gauntlet)
 
+OAC - 2022.1 - Fire Emblem
+- [Mage-Embler: Ruan Petrus, Eduardo Freire](https://github.com/RISCV-Games/Mage-Embler)
+
 OAC - 2021.1 - Celeste:
 - [Celeste: Ana Silvestre, Davi Paturi e Victor Lisboa](https://github.com/Acucar-tempero-e-tudo-que-ha-de-bom/ProjetoOAC-2021)
 - [OACeleste: Gabriel Borges, Maria Eduarda e Luiz Carlos](https://github.com/ziul123/OACeleste)
+
+ISC - 2021.1 - Helltaker
+- [Monitaker: Ruan Petrus, Gabriel Felix, Nícolas Faganelly](https://github.com/RuanPetrus/Monitaker)
 
 ISC - 2020.2 - Adventures of Lolo:
 - [Adventures of Lamar: César Lacerda, Felipe Borges e Gustavo Starling](https://github.com/Felipedbbsb/Adventures-of-Lamar-ISC)
@@ -64,3 +71,4 @@ OAC - 2020.1 - Mortal Kombat
 Aqui estão os contribuidores do projeto LAMAR e seus respectivos contatos:
 
 - Victor Hugo França Lisboa - [victorhugof.lisboa@gmail.com](mailto:victorhugof.lisboa@gmail.com)
+- Ruan Petrus - [pedraruan12@gmail.com](mailto:pedraruan12@gmail.com)
