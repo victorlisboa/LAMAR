@@ -44,6 +44,7 @@ ISC - 2023.2 - Bad Ice Cream
 - [RadIceCream: Nirva Neves, Rodrigo Rafik e Mariana Simion](https://github.com/NirvaCx/RadIceCream)
 - [Bad Santa: Rafael Ghiorzi, Guilherme Lime e Bernardo Vilar](https://github.com/rafaelghiorzi/Jogo-ISC-Assembly-Risc-V)
 - [Badly Programmed Ice Cream: Arthur Araújo, Arthur Bispo, João Carlos](https://github.com/arthurxsz/Badly-Programmed-Ice-Cream)
+- [Kawaiice Cream: Giovanni Daldegan, Michele Nakagomi e Rute Fernandes](https://github.com/GiovanniDaldegan/kawaiice-cream)
 
 ISC - 2023.1 - Gauntlet:
 - [The Assembly Gauntlet: Luca Megiorin, Eduardo de Sousa e Manuella Araujo](https://github.com/Luke0133/The-Assembly-Gauntlet)
