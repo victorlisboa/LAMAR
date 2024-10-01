@@ -40,6 +40,9 @@ Aqui estão alguns projetos finais tanto de ISC quanto de OAC para ajudar e insp
 
 ##### Observação: se você quiser disponibilizar o link do repositório do seu jogo, contate um dos [contribuidores](#contribuidores) e ficaremos muito contentes de termos mais um exemplo para a nossa pratileira!
 
+ISC - 2024.1 - PacMan
+- [SaintMan: Enzo Teles, Victor Yan e Lucas Mendes](https://github.com/S3r4ph1el/SaintMan)
+
 ISC - 2023.2 - Bad Ice Cream
 - [RadIceCream: Nirva Neves, Rodrigo Rafik e Mariana Simion](https://github.com/NirvaCx/RadIceCream)
 - [Bad Santa: Rafael Ghiorzi, Guilherme Lime e Bernardo Vilar](https://github.com/rafaelghiorzi/Jogo-ISC-Assembly-Risc-V)
