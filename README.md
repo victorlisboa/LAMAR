@@ -42,6 +42,7 @@ Aqui estão alguns projetos finais tanto de ISC quanto de OAC para ajudar e insp
 
 ISC - 2024.1 - PacMan
 - [SaintMan: Enzo Teles, Victor Yan e Lucas Mendes](https://github.com/S3r4ph1el/SaintMan)
+- [DroidDefender: Élvis Miranda, Gustavo Alves e Pedro Marcinoni](https://github.com/neatzzy/Proj-ISC-DroidDefender)
 
 ISC - 2023.2 - Bad Ice Cream
 - [RadIceCream: Nirva Neves, Rodrigo Rafik e Mariana Simion](https://github.com/NirvaCx/RadIceCream)
