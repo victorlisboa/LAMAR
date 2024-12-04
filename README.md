@@ -20,6 +20,7 @@ Se você possui alguma sugestão para contribuir neste projeto, sinta-se à vont
 - [Conversor de imagens .bmp para .data [GIMP users]](https://github.com/RuanPetrus/BMPtoASM) - Esse conversor foi criado com o intuito de resolver o problema que os usuários do linux tinham ao tentar converter um arquivo .bmp para .data usando o GIMP. Se você é usuário de Linux, esse conversor com certeza vai ser bem útil!
 - [Conversor de imagens .png para .data](https://github.com/ABMHub/png2oac) - Esse conversor automaticamente converte de .png para .data/.s/.asm e de quebra já redimensiona a imagem para largura múltipla de 4, facilitando a programação.
 - [Conversor de qualquer imagem para .data](https://github.com/mateusap1/img2riscv) - Esse conversor desenvolvido pelo [@mateusap1](https://github.com/mateusap1) foi escrito para ser capaz de transformar qualquer imagem em .data. Atualmente foi testado com JPG, PNG e BMP.
+- [Conversor MIDI para RISC-V](https://github.com/Luke0133/Midi2RiscV) - Cria um arquivo .data a partir de um midi, considerando as vozes e acordes contidos em cada parte da música 
 - [Guia do Calouro](https://cardosaum.github.io/guia-do-cicalouro/) - Essa página foi criada pelo [@Cardosaum](https://github.com/Cardosaum) e é um ótimo guia não só para a disciplina de ISC, mas também de todas as outras disciplinas do 1º semestre. É um projeto que é aberto e aceita contribuições da comunidade e com certeza vale a pena conferir.
 - [Calculadora ISC](https://github.com/arthurxsz/ISC-Calculadora) - Calculadora para auxiliar nas atividades do módulo 1 de ISC, criada pelo aluno [@arthurxsz](https://github.com/arthurxsz).
 - [Engine 3D](https://github.com/RISCV-Games/Engine3D) - Prova de conceito de uma engine 3D em assembly RISC-V
@@ -45,11 +46,17 @@ ISC - 2024.1 - PacMan
 - [DroidDefender: Élvis Miranda, Gustavo Alves e Pedro Marcinoni](https://github.com/neatzzy/Proj-ISC-DroidDefender)
 - [JoysChase: Davi Galvão e Eric Wu](https://github.com/daviggalvao/JoysChase)
 
+OAC - 2024.1 - Metroid
+- [Metroid: Luca Megiorin, João Pedro Antonow, Ítalo Braga, Luis Augusto da Cavalcanti, Caleb Martim](https://github.com/Luke0133/OAC-METROID-G1-2024/)
+
 ISC - 2023.2 - Bad Ice Cream
 - [RadIceCream: Nirva Neves, Rodrigo Rafik e Mariana Simion](https://github.com/NirvaCx/RadIceCream)
 - [Bad Santa: Rafael Ghiorzi, Guilherme Lime e Bernardo Vilar](https://github.com/rafaelghiorzi/Jogo-ISC-Assembly-Risc-V)
 - [Badly Programmed Ice Cream: Arthur Araújo, Arthur Bispo, João Carlos](https://github.com/arthurxsz/Badly-Programmed-Ice-Cream)
 - [Kawaiice Cream: Giovanni Daldegan, Michele Nakagomi e Rute Fernandes](https://github.com/GiovanniDaldegan/kawaiice-cream)
+
+OAC - 2023.1 - Super Mario Bros:
+- [Super Mario Bros:  Pedro Avila Beneveli, Akin Bazila, Gabriel Henrique Neres, Guilherme Cunha, Guilherme Leonel](https://github.com/PedroABeneveli/Mario-NES/tree/main)
 
 ISC - 2023.1 - Gauntlet:
 - [The Assembly Gauntlet: Luca Megiorin, Eduardo de Sousa e Manuella Araujo](https://github.com/Luke0133/The-Assembly-Gauntlet)
