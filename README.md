@@ -39,7 +39,7 @@ Uma cópia do PDF está disponível neste repositório.
 
 Aqui estão alguns projetos finais tanto de ISC quanto de OAC para ajudar e inspirar quem está estudando para fazer o seu próprio jogo ~~ou só quer jogar mesmo~~:
 
-##### Observação: se você quiser disponibilizar o link do repositório do seu jogo, contate um dos [contribuidores](#contribuidores) e ficaremos muito contentes de termos mais um exemplo para a nossa pratileira!
+##### Observação: se você quiser disponibilizar o link do repositório do seu jogo, contate um dos [contribuidores](#contribuidores) e ficaremos muito contentes de termos mais um exemplo para a nossa prateleira!
 
 ISC - 2024.2 - Fix it Felix Jr.
 - [BananaOwner: Kaio Santos, Caio Dias e Enzo Cardoso](https://github.com/OsMassinhas/ProjetoISC-24-2)
