@@ -41,6 +41,9 @@ Aqui estão alguns projetos finais tanto de ISC quanto de OAC para ajudar e insp
 
 ##### Observação: se você quiser disponibilizar o link do repositório do seu jogo, contate um dos [contribuidores](#contribuidores) e ficaremos muito contentes de termos mais um exemplo para a nossa pratileira!
 
+ISC - 2024.2 - Fix it Felix Jr.
+- [BananaOwner: Kaio Santos, Caio Dias e Enzo Cardoso](https://github.com/OsMassinhas/ProjetoISC-24-2)
+  
 ISC - 2024.1 - PacMan
 - [SaintMan: Enzo Teles, Victor Yan e Lucas Mendes](https://github.com/S3r4ph1el/SaintMan)
 - [DroidDefender: Élvis Miranda, Gustavo Alves e Pedro Marcinoni](https://github.com/neatzzy/Proj-ISC-DroidDefender)
