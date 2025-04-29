@@ -35,6 +35,8 @@ Uma cópia do PDF está disponível neste repositório.
 
 - [Dicas para OAC no Geral](https://docs.google.com/document/d/1k0Qy25dyoapkW3nP2wsmMaD7o3qBDLXW8S9ArubQVWg) - Um texto detalhando algumas experiências de [@emmenezes](https://github.com/emmenezes) quando cursou OAC e que podem ser muito úteis para vocês.
 
+- [ISCTools](https://isctools.vercel.app/) - Site com diversas ferramentas utilizadas em ISC e OAC, incluindo conversor de bases numéricas, assembler e disassembler para instruções RISC-V., calculadora de imediato para JAL e outros.
+
 ## Jogos de Semestres Anteriores
 
 Aqui estão alguns projetos finais tanto de ISC quanto de OAC para ajudar e inspirar quem está estudando para fazer o seu próprio jogo ~~ou só quer jogar mesmo~~:
@@ -43,6 +45,7 @@ Aqui estão alguns projetos finais tanto de ISC quanto de OAC para ajudar e insp
 
 ISC - 2024.2 - Fix it Felix Jr.
 - [BananaOwner: Kaio Santos, Caio Dias e Enzo Cardoso](https://github.com/OsMassinhas/ProjetoISC-24-2)
+- [Fix it felix: Ana Sarah Nagata, Kamily Silva e Luis H. Silva](https://github.com/LuisHenriqueDaSilv/FixItFelix)
   
 ISC - 2024.1 - PacMan
 - [SaintMan: Enzo Teles, Victor Yan e Lucas Mendes](https://github.com/S3r4ph1el/SaintMan)
