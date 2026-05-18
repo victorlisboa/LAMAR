@@ -1,0 +1,28 @@
+.eqv KEYBOARD_STATUS 0xFF200000
+.eqv KEYBOARD_CHAR 0xFF200004
+.eqv KEYBOARD_MONITOR 0xFF20000C
+
+.text
+
+main:
+	jal KEYBOARD_CHECK
+	j main
+
+KEYBOARD_CHECK:
+	li t0, KEYBOARD_STATUS
+	lw t0, 0(t0)
+	bne t0, zero, KEYBOARD_PRESSED
+	ret
+	
+KEYBOARD_PRESSED:
+	li t0, KEYBOARD_STATUS
+	li t0, KEYBOARD_CHAR
+	lb a0, 0(t0)
+	jal PRINT_CHAR
+	j main
+	
+PRINT_CHAR:
+	li t0, KEYBOARD_MONITOR
+	sb a0, 0(t0)
+	ret
+	
